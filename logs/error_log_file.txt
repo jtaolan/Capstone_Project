@@ -1,0 +1,16 @@
+Error reading file: ./datasets/Corporate Financials - old_/WRDS-all data on media companies.xlsx
+Error: Unable to read workbook: could not read properties from ./datasets/Corporate Financials - old_/WRDS-all data on media companies.xlsx.
+This is most probably because the workbook source files contain some invalid XML.
+Please see the exception for more details.
+Error reading file: ./datasets/Data Export Tests/WRDS netflix and disney.xlsx
+Error: Unable to read workbook: could not read properties from ./datasets/Data Export Tests/WRDS netflix and disney.xlsx.
+This is most probably because the workbook source files contain some invalid XML.
+Please see the exception for more details.
+Error reading file: ./datasets/Corporate Financials - old_/WRDS-all data on media companies.xlsx
+Error: Unable to read workbook: could not read properties from ./datasets/Corporate Financials - old_/WRDS-all data on media companies.xlsx.
+This is most probably because the workbook source files contain some invalid XML.
+Please see the exception for more details.
+Error reading file: ./datasets/Data Export Tests/WRDS netflix and disney.xlsx
+Error: Unable to read workbook: could not read properties from ./datasets/Data Export Tests/WRDS netflix and disney.xlsx.
+This is most probably because the workbook source files contain some invalid XML.
+Please see the exception for more details.

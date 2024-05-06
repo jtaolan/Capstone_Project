@@ -1,0 +1,8 @@
+matplotlib
+pandas==1.5.3
+openpyxl
+sqlalchemy
+sqlalchemy-utils
+pymysql
+scikit-learn
+torch
